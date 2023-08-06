@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686075915 source:c:\users\usuario\desktop\c++\project_writerpress\funciones.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<cstdio>
+
+1686078666 source:c:\users\usuario\desktop\c++\project_writerpress\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
