@@ -1,0 +1,35 @@
+#cuerpo{
+	background-image: url("fondo.jpg");
+}
+
+#titulo{
+	font: 2.5em italic;
+	text-align: center;
+	margin-top: 30px;
+	padding: 2%;
+	width: 30%;
+	margin: 15px auto;
+	border-radius: 80px 20px 80px 20px;
+	border: 5px solid yellow;
+	background:-webkit-radial-gradient(center, ellipse, yellow, white, lightblue);
+	color: gray;
+	box-shadow: black 5px 5px 10px;
+	text-shadow: black 5px 5px 10px;
+}
+#parrafo{
+	font: italic;
+	margin: center;
+}
+
+#lateral{
+	clear: both;
+}
+
+#nave{
+	background-color: #E0CC7B;
+	width: 75%;
+	margin: auto;
+	border-radius: 20px;
+	border: 5px solid lightgray;
+	box-shadow: black 5px 5px 10px;
+}
